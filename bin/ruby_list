@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+require 'ruby_list'
+
+list = Rubylist.new
+
+list.launch
